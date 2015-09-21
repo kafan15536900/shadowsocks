@@ -1,4 +1,4 @@
-shadowsocks fork branch form [micwho]:https://github.com/micwho
+shadowsocks fork branch form [micwho]
 ===========
 
 [![PyPI version]][PyPI]
@@ -104,3 +104,4 @@ Bugs and Issues
 [Troubleshooting]:   https://github.com/shadowsocks/shadowsocks/wiki/Troubleshooting
 [Wiki]:              https://github.com/shadowsocks/shadowsocks/wiki
 [Windows]:           https://github.com/shadowsocks/shadowsocks-csharp
+[micwho]:            https://github.com/micwho

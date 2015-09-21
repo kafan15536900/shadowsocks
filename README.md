@@ -1,4 +1,4 @@
-shadowsocks fork branch form micwho[https://github.com/micwho]
+shadowsocks fork branch form [micwho]:https://github.com/micwho
 ===========
 
 [![PyPI version]][PyPI]
